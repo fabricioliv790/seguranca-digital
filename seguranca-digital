@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segurança Digital: Utilizando Matemática para Programar Senhas Seguras</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Segurança Digital: Utilizando Matemática para Programar Senhas Seguras</h1>
+    </header>
+
+    <section>
+        <h2>1. Introdução</h2>
+        <p>Segurança digital é um dos aspectos mais importantes no mundo moderno. Proteger informações pessoais e profissionais é essencial. As senhas, que são a primeira linha de defesa, desempenham um papel fundamental nesse processo.</p>
+
+        <h2>2. Como Funcionam as Senhas</h2>
+        <p>As senhas são usadas para autenticação em sistemas digitais. Uma senha forte dificulta ataques e protege dados sensíveis. No entanto, senhas simples, como "123456", podem ser facilmente descobertas.</p>
+
+        <h2>3. O Papel da Matemática nas Senhas</h2>
+        <p>Matemática é fundamental para garantir senhas seguras. Conceitos como probabilidade, geração de senhas aleatórias e funções hash são usados para criar senhas mais difíceis de quebrar.</p>
+
+        <h3>Probabilidade e Combinações</h3>
+        <p>Quanto maior a combinação de caracteres (letras, números, símbolos), mais difícil é quebrar a senha usando força bruta.</p>
+
+        <h3>Funções Hash</h3>
+        <p>Funções hash como SHA-256 transformam senhas em uma sequência irreconhecível, protegendo os dados armazenados.</p>
+
+        <h2>4. Exemplos Práticos</h2>
+        <p>Exemplo 1: Uma senha de 8 caracteres com letras, números e símbolos pode ter mais de 200 bilhões de combinações possíveis.</p>
+
+        <h2>5. Ferramentas de Segurança</h2>
+        <p>Gerenciadores de senhas e autenticação de dois fatores (2FA) ajudam a melhorar a segurança digital.</p>
+
+        <h2>6. Conclusão</h2>
+        <p>Utilizar senhas fortes é essencial para garantir a segurança digital. A matemática, com suas ferramentas e algoritmos, ajuda a criar senhas difíceis de quebrar.</p>
+    </section>
+
+    <footer>
+        <p>Trabalho de Segurança Digital - 2025</p>
+    </footer>
+</body>
+</html>
